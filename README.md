@@ -47,11 +47,4 @@ Modify the script to interact with different NBA players by adjusting the player
 Selenium (https://selenium-python.readthedocs.io/): Python library for browser automation.
 ChromeDriver (https://chromedriver.chromium.org/downloads): WebDriver for the Chrome browser (it has to be exactly the same edition with google chrome).
 
-## Future Enhancements:
-Expand script capabilities to handle more dynamic web elements.
-Implement additional data processing and visualization features.
-Enhance exception handling for improved script robustness.
 
-## Contribution:
-Contributions to this project are welcome! Feel free to open issues, suggest improvements, or submit pull requests.
-Feel free to customize the description further based on your project's unique aspects and goals. This detailed description provides potential users and contributors with a comprehensive overview of your NBA Player Career Stats Scraper project
